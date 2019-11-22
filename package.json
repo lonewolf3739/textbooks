@@ -23,7 +23,7 @@
   "devDependencies": {
     "@mathigon/parser": "^0.2.14",
     "emojione-assets": "^3.1.1",
-    "eslint": "^5.12.1",
+    "eslint": "^6.7.0",
     "express": "^4.16.4",
     "express-validator": "^5.3.1",
     "grunt": "^1.0.3",
