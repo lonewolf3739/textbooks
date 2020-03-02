@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@mathigon/boost": "^0.2.8",
-    "@mathigon/core": "^0.2.5",
+    "@mathigon/core": "^0.3.5",
     "@mathigon/fermat": "^0.2.7",
     "@mathigon/hilbert": "^0.2.2"
   },
