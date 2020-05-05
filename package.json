@@ -30,7 +30,7 @@
     "@typescript-eslint/eslint-plugin": "^2.20.0",
     "@typescript-eslint/parser": "^2.20.0",
     "autoprefixer": "^9.7.1",
-    "emojione-assets": "^3.1.1",
+    "emojione-assets": "^4.5.0",
     "eslint": "^6.8.0",
     "express": "^4.16.4",
     "express-validator": "^5.3.1",
