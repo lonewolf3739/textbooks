@@ -1,0 +1,40 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: eslint
+    versions:
+    - 7.20.0
+    - 7.21.0
+    - 7.22.0
+    - 7.23.0
+    - 7.24.0
+    - 7.7.0
+  - dependency-name: three
+    versions:
+    - 0.125.1
+    - 0.125.2
+    - 0.126.0
+    - 0.126.1
+    - 0.127.0
+  - dependency-name: marked
+    versions:
+    - 1.2.8
+    - 1.2.9
+    - 2.0.0
+    - 2.0.1
+  - dependency-name: express-validator
+    versions:
+    - 6.10.0
+    - 6.9.2
+  - dependency-name: tslib
+    versions:
+    - 2.1.0
+  - dependency-name: pug
+    versions:
+    - 3.0.0
